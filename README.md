@@ -18,3 +18,5 @@ API Dokümantasyonu <https://documenter.getpostman.com/view/16638043/2s8YzL36Ek>
 #### Not
 
 Eğer verilerin 30 dakikada bir güncellenmesini istiyorsanız `php artisan schedule:work` komutunu çalıştırın. Bu komut Spotify'dan belirtilen sürelerde senkronizasyon yapılmasını sağlayacak.
+
+.env.example içerisindeki benim kendi oluşturduğum spotify api keyleri mevcuttur eğer bir sıkıntı yaşarsanız kendi api keylerinizi ekleyin.
